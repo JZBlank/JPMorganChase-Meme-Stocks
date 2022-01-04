@@ -25,7 +25,8 @@ Github, Twitter API, Jupyter, Visual Studio Code
 ## More Info
 For more information please refer to our:
 Presentation: 
-> https://docs.google.com/presentation/d/1pG377sgvbc-5EmU2R-wRKgOmZxVpGLrY/edit?usp=sharing&ouid=118240468325101232099&rtpof=true&sd=true
+> https://drive.google.com/file/d/1LBHwi3Y-G1_H9ZXXW-ARNdrO6_cSKfu8/view?usp=sharing
+> 
 Write-up:
 > https://drive.google.com/file/d/1Yk7ZiceHZqpbn5WXqt-A9pYvHPkNCOhI/view?usp=sharing
 
