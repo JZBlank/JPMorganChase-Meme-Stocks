@@ -23,8 +23,11 @@ Github, Twitter API, Jupyter, Visual Studio Code
 - TSLA
 
 ## More Info
-For more information please refer to our presentation: 
+For more information please refer to our:
+Presentation: 
 > https://docs.google.com/presentation/d/1pG377sgvbc-5EmU2R-wRKgOmZxVpGLrY/edit?usp=sharing&ouid=118240468325101232099&rtpof=true&sd=true
+Write-up:
+> https://drive.google.com/file/d/1Yk7ZiceHZqpbn5WXqt-A9pYvHPkNCOhI/view?usp=sharing
 
 ## Contact Us
 > Grace Leverett: gvleverett@gmail.com
